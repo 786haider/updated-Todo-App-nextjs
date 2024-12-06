@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="sm:text-xl lg:text-3xl xl:text-5xl md:text-4xl font-extrabold flex justify-center mt-10">
           <i> Wellcome to My Todo App</i>
         </h1>
-        <p className="text-lg md:text-2xl flex justify-center mt-5">
+        <p className="text-lg md:text-2xl lg:flex lg:justify-center xl:flex xl:justify-center  md:flex justify-center mt-5">
           This is a simple Todo App that allows you to add, remove and mark
           tasks as completed.
         </p>
